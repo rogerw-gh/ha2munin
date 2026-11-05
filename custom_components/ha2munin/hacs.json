@@ -1,7 +1,7 @@
 {
   "domain": "ha2munin",
   "name": "HA to Munin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "documentation": "https://github.com/rogerw-gh/ha2munin",
   "requirements": [],
   "dependencies": [homeassistant],
