@@ -3,7 +3,7 @@
   "name": "HA to Munin",
   "version": "1.0.5",
   "documentation": "https://github.com/rogerw-gh/ha2munin",
-  "requirements": [homeassistant],
+  "requirements": [],
   "dependencies": [],
   "codeowners": ["@Erreur32","rogerw-gh"],
   "config_flow": true,
