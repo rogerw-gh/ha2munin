@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/Erreur32/ha2munin/main/custom_components/ha2munin/icon.png" alt="Munin Logo" width="256"/>
 
-En Francais, English machine translation below:
+En Francais, English translation below, please note that this component for Home Assistant will not provide values unless you follow the notes in HomeAssistant_2026_11.
 
 Expose facilement les statistiques de Home Assistant (CPU, RAM, températures, etc) au format compatible Munin, via une simple endpoint HTTP.
 
