@@ -16,7 +16,6 @@ class MuninAPI(HomeAssistantView):
         entity_ids = [
             "sensor.system_monitor_processor_use",
             "sensor.system_monitor_memory_usage",
-            "sensor.system_monitor_processor_temperature",
             "sensor.system_monitor_swap_use",
             "sensor.system_monitor_load_1min",
             "sensor.system_monitor_load_5min",
@@ -26,7 +25,7 @@ class MuninAPI(HomeAssistantView):
             "sensor.system_monitor_disk_use_media",
             "sensor.system_monitor_memory_use",
             "sensor.system_monitor_network_throughput_in_enp3s0",
-            "sensor.system_monitor_network_throughput_out_enp3s0"
+            "sensor.system_monitor_network_out_enp0s18"
         ]
         data = {}
         for eid in entity_ids:
